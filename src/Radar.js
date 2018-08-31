@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 import React, {Component} from 'react'
 import {Text as ReactText}  from 'react-native'
-import Svg,{ G, Path, Line, Text} from 'react-native-svg'
+import Svg,{ G, Path, Line, Text} from 'react-native'
 import { Options, identity, styleSvg, fontAdapt } from './util'
 const Radar = require('paths-js/radar')
 

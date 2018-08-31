@@ -13,10 +13,10 @@ SPDX-Copyright: Copyright (c) Capital One Services, LLC
 SPDX-License-Identifier: Apache-2.0
 */
 
-import extractProps from 'react-native-svg/lib/extract/extractProps';
+import extractProps from 'react-native/lib/extract/extractProps';
 import React, {Component} from 'react'
 import {Text as ReactText, Animated}  from 'react-native'
-import Svg,{ G, Path, Text, Circle} from 'react-native-svg'
+import Svg,{ G, Path, Text, Circle} from 'react-native'
 import { Colors, Options, cyclic, identity, fontAdapt } from './util'
 import _ from 'lodash'
 const Pie = require('paths-js/pie')

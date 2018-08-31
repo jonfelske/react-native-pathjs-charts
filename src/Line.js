@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 import React, { Component } from 'react';
 import { Text as ReactText, View, PanResponder } from 'react-native';
-import Svg, { G, Path, Rect, Text, Circle, Line } from 'react-native-svg';
+import Svg, { G, Path, Rect, Text, Circle, Line } from 'react-native';
 import { Colors, Options, cyclic, fontAdapt } from './util';
 import Axis from './Axis';
 import GridAxis from './GridAxis';

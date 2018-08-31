@@ -17,7 +17,7 @@ SPDX-License-Identifier: Apache-2.0
 */
 
 import React, { Component } from 'react'
-import { G, Path } from 'react-native-svg'
+import { G, Path } from 'react-native'
 import _ from 'lodash'
 import { AxisStruct } from './Axis'
 

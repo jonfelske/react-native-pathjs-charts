@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 import React,{Component} from 'react'
 import {Text as ReactText}  from 'react-native'
-import Svg,{ G, Path, Text } from 'react-native-svg'
+import Svg,{ G, Path, Text } from 'react-native'
 import { Colors, Options, fontAdapt, cyclic, color, identity } from './util'
 import _ from 'lodash'
 import Axis from './Axis'

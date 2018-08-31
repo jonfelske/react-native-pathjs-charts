@@ -20,7 +20,7 @@ SPDX-License-Identifier: Apache-2.0
 
 import React, { Component } from 'react';
 import { View, StyleSheet } from 'react-native';
-import { Text, Circle } from 'react-native-svg';
+import { Text, Circle } from 'react-native';
 
 import { StockLine } from 'react-native-pathjs-charts';
 

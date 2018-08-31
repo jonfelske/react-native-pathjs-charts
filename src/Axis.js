@@ -17,7 +17,7 @@ SPDX-License-Identifier: Apache-2.0
 */
 
 import React, {Component} from 'react'
-import { Circle, G, Path, Text } from 'react-native-svg'
+import { Circle, G, Path, Text } from 'react-native'
 import { fontAdapt } from './util'
 import _ from 'lodash'
 const Pathjs = require('paths-js/path')
